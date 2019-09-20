@@ -33,7 +33,6 @@ brew cask install istat-menus
 brew cask install iterm2
 # brew cask install keepingyouawake
 brew cask install mailplane
-brew cask install mysql
 # brew cask install postgres
 brew cask install postman
 brew cask install pycharm
@@ -47,12 +46,12 @@ brew cask install slack
 brew cask install the-unarchiver
 brew cask install telegram
 brew cask install transmit
-brew cask install p7zip
+brew install p7zip
 brew cask install tower #git client
 brew cask install unrarx
 brew cask install virtualbox
-brew cask install visual-studio-co
+brew cask install visual-studio-code
 brew cask install vlc
 brew cask install whatsapp
 brew cask install wireshark
-
+brew install youtube-dl
