@@ -14,7 +14,7 @@ brew cask install 1password
 brew cask install android-file-transfer
 brew cask install anaconda
 brew cask install alfred
-brew cask install aton
+brew cask install atom
 # brew cask install appcleaner
 # brew cask install appcode
 brew cask install authy
