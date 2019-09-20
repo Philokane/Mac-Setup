@@ -4,7 +4,6 @@
 
 # brew packages
 brew install git
-brew install gradle
 brew install openssl
 brew install ruby
 
