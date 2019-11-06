@@ -55,3 +55,4 @@ brew cask install vlc
 brew cask install whatsapp
 brew cask install wireshark
 brew install youtube-dl
+brew install terraform
