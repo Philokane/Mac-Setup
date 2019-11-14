@@ -57,3 +57,4 @@ brew cask install wireshark
 brew install youtube-dl
 brew install terraform
 brew install speedtest_cli
+brew install sslscan
