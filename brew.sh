@@ -1,6 +1,7 @@
 #!/bin/sh
 # chmod a+x brew.sh
 # https://computers.tutsplus.com/tutorials/perfect-configurations-with-homebrew-and-cask--cms-20768
+# https://medium.com/better-programming/my-top-homebrew-packages-for-2020-b6565d46de85
 
 # brew packages
 brew install git
@@ -61,3 +62,6 @@ brew install sslscan
 brew install terraform
 brew install npm
 brew install jq
+brew install htop
+brew install tldr
+brew install tmux
