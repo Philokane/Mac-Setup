@@ -65,3 +65,4 @@ brew install jq
 brew install htop
 brew install tldr
 brew install tmux
+brew install mas-cli/tap/mas
