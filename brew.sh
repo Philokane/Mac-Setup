@@ -3,10 +3,14 @@
 # https://computers.tutsplus.com/tutorials/perfect-configurations-with-homebrew-and-cask--cms-20768
 # https://medium.com/better-programming/my-top-homebrew-packages-for-2020-b6565d46de85
 
+mas install 497799835 # Xcode
+
 # brew packages
 brew install git
 brew install openssl
 brew install ruby
+
+brew install mas-cli/tap/mas # Install mas (App Store command line installer)
 
 # brew cask
 # https://caskroom.github.io/search
@@ -65,4 +69,15 @@ brew install jq
 brew install htop
 brew install tldr
 brew install tmux
-brew install mas-cli/tap/mas
+brew cask install zoomus
+brew cask install vlc
+brew cask install google-cloud-sdk
+brew install awscli
+brew cask install atom
+brew cask install sublime-text
+brew cask install docker
+brew cask install anaconda
+
+
+
+mas install 409789998 # Twitter
