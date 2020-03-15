@@ -77,7 +77,24 @@ brew cask install atom
 brew cask install sublime-text
 brew cask install docker
 brew cask install anaconda
-
-
-
 mas install 409789998 # Twitter
+
+
+sudo apt-get install fzf
+# rbenv ruby version manager
+sudo apt-get install rbenv
+# ruby full, required
+sudo apt-get install ruby-full
+
+# ripgrep for searching
+sudo apt-get install ripgrep
+# htop for better process viewing
+sudo apt-get install htop
+
+
+
+# Other software that needs manually installed
+# oh-my-zsh
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+# tmux plugin manager
+git clone https://github.com/tmux-plugins/tpm $HOME/.tmux/plugins/tpm
