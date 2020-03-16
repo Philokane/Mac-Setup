@@ -60,7 +60,6 @@ brew cask install vlc
 brew cask install whatsapp
 brew cask install wireshark
 brew install youtube-dl
-brew install terraform
 brew install speedtest_cli
 brew install sslscan
 brew install terraform
@@ -79,6 +78,9 @@ brew cask install docker
 brew cask install anaconda
 mas install 409789998 # Twitter
 
+# Devops 
+brew cask install virtualbox
+brew install terraform
 
 sudo apt-get install fzf
 # rbenv ruby version manager
