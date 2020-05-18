@@ -24,6 +24,7 @@ brew cask install atom
 # brew cask install appcode
 brew cask install authy
 brew cask install charles
+brew cask install spectacle
 # brew cask install clion
 # brew cask install cronnix
 brew cask install dash
