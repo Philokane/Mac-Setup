@@ -69,10 +69,8 @@ brew install htop
 brew install tldr
 brew install tmux
 brew cask install zoomus
-brew cask install vlc
 brew cask install google-cloud-sdk
 brew install awscli
-brew cask install atom
 brew cask install sublime-text
 brew cask install docker
 brew cask install anaconda
