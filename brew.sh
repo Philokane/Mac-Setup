@@ -44,6 +44,7 @@ brew cask install postman
 brew cask install pycharm
 brew install python
 brew install python3
+brew install arq
 brew cask install spotify
 brew cask install signal
 # brew cask install razorsql
