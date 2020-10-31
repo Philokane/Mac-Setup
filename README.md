@@ -2,7 +2,7 @@
 
 A shell script to automate the installation of vital Mac packages and applications for a fresh Mac install.
 
-## enable cronjob by granting Full Disk Access
+## enable cronjob by granting Full Disk Access [ref](https://blog.bejarano.io/fixing-cron-jobs-in-mojave/)
 
 1. Go to System Preferences > Security & Privacy > Privacy > Full Disk Access
 1. Click on the (+) icon to add an item to the list
