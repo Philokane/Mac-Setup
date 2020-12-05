@@ -730,6 +730,12 @@ defaults write com.apple.TextEdit RichText -int 0
 defaults write com.apple.TextEdit PlainTextEncoding -int 4
 defaults write com.apple.TextEdit PlainTextEncodingForWrite -int 4
 
+# Open New Doc by default in TextEdit
+defaults write com.apple.TextEdit NSShowAppCentricOpenPanelInsteadOfUntitledFile -bool false
+
+# To undo: 
+
+
 # Enable the debug menu in Disk Utility
 #defaults write com.apple.DiskUtility DUDebugMenuEnabled -bool true
 #defaults write com.apple.DiskUtility advanced-image-options -bool true
